@@ -75,7 +75,13 @@
       "cuerpo_tecnico": {
         "entrenador": "Jorge Almirón",
         "segundo_entrenador": "Jesús Muñoz Calonge"
+      },    "segundo_entrenador": "Alkisa"
+39
       },
+40
+      "Web_Oficial": "https://www.osasuna.es/"
+41
+    },
       "Web_Oficial": "https://www.elchecf.es/"
     },
     {
@@ -233,19 +239,6 @@
         "segundo_entrenador": "Pablo Sanz"
       },
       "Web_Oficial": "https://www.sevillafc.es/"
-    },
-    {
-      "id_equipo": "VAL",
-      "nombre": "Valencia CF",
-      "imagen": "imagenes/escudos_clubes/Valencia CF.png",
-      "estadio": "Camp de Mestella",
-      "anyo_de_fundacion": 1919,
-      "ubicacion": "Valencia",
-      "cuerpo_tecnico": {
-        "entrenador": "Javier Gracia",
-        "segundo_entrenador": "Zigor Aranalde"
-      },
-      "Web_Oficial": "https://www.valenciacf.com/es"
     },
     {
       "id_equipo": "VIL",
